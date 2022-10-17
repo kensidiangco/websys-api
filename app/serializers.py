@@ -1,5 +1,3 @@
-from dataclasses import field
-from tkinter.messagebox import QUESTION
 from rest_framework import serializers
 from .models import Review, Vote
 
